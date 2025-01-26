@@ -14,3 +14,8 @@ the computational constraints of existing multimodal models
 for video understanding. This work tries to enhance video
 accessibility and contextualization across diverse domains,
 including education, entertainment, and marketing
+
+# Contributors
+- Yugesh Panta
+- Sachin Kunta
+- Revin Dsilva
